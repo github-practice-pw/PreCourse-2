@@ -1,8 +1,6 @@
 /*
  *                     Iterative way of using Quick sort algorithm 
  *
- * Leetcode : 
- *
  * Time Complexity  : O(nlogn) and O(n^2)-->Worst case 
  * Space Complexity : O(logn)  and O(n)--> Worse Case
  * Did this code successfully run on Leetcode/VSCode : Yes
