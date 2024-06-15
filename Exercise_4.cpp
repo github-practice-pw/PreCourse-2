@@ -1,5 +1,4 @@
-#include<stdlib.h> 
-#include<stdio.h> 
+#include<iostream>
   
 // Merges two subarrays of arr[]. 
 // First subarray is arr[l..m] 
