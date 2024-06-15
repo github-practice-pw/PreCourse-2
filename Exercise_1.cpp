@@ -1,4 +1,6 @@
 /*
+ *              Binary Search Algorithm
+ *
  * Time Complexity worst case and average case: O(logN)
  * Time Complexity best case : O(1)
  * Space Complexity : O(1)
